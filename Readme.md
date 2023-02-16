@@ -111,19 +111,6 @@
 	
 ![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 	</p>
-	
-
-## [![Repography logo](https://images.repography.com/logo.svg)](https://repography.com) / Recent activity [![Time period](https://images.repography.com/34288148/OMEGA6404/OMEGA6404/recent-activity/vX5MXlvJarv1dSSvRGHezUi06IpX-sXRR5ueOIS-pXc/gduhPqM8KzpLhBngVUYEHsdt_uXKWO0AbN9BLwqD9gE_badge.svg)](https://repography.com)
-[![Timeline graph](https://images.repography.com/34288148/OMEGA6404/OMEGA6404/recent-activity/vX5MXlvJarv1dSSvRGHezUi06IpX-sXRR5ueOIS-pXc/gduhPqM8KzpLhBngVUYEHsdt_uXKWO0AbN9BLwqD9gE_timeline.svg)](https://github.com/OMEGA6404/OMEGA6404/commits)
-[![Issue status graph](https://images.repography.com/34288148/OMEGA6404/OMEGA6404/recent-activity/vX5MXlvJarv1dSSvRGHezUi06IpX-sXRR5ueOIS-pXc/gduhPqM8KzpLhBngVUYEHsdt_uXKWO0AbN9BLwqD9gE_issues.svg)](https://github.com/OMEGA6404/OMEGA6404/issues)
-[![Pull request status graph](https://images.repography.com/34288148/OMEGA6404/OMEGA6404/recent-activity/vX5MXlvJarv1dSSvRGHezUi06IpX-sXRR5ueOIS-pXc/gduhPqM8KzpLhBngVUYEHsdt_uXKWO0AbN9BLwqD9gE_prs.svg)](https://github.com/OMEGA6404/OMEGA6404/pulls)
-[![Trending topics](https://images.repography.com/34288148/OMEGA6404/OMEGA6404/recent-activity/vX5MXlvJarv1dSSvRGHezUi06IpX-sXRR5ueOIS-pXc/gduhPqM8KzpLhBngVUYEHsdt_uXKWO0AbN9BLwqD9gE_words.svg)](https://github.com/OMEGA6404/OMEGA6404/commits)
-[![Top contributors](https://images.repography.com/34288148/OMEGA6404/OMEGA6404/recent-activity/vX5MXlvJarv1dSSvRGHezUi06IpX-sXRR5ueOIS-pXc/gduhPqM8KzpLhBngVUYEHsdt_uXKWO0AbN9BLwqD9gE_users.svg)](https://github.com/OMEGA6404/OMEGA6404/graphs/contributors)
-[![Activity map](https://images.repography.com/34288148/OMEGA6404/OMEGA6404/recent-activity/vX5MXlvJarv1dSSvRGHezUi06IpX-sXRR5ueOIS-pXc/gduhPqM8KzpLhBngVUYEHsdt_uXKWO0AbN9BLwqD9gE_map.svg)](https://github.com/OMEGA6404/OMEGA6404/commits)
-
-## [![Repography logo](https://images.repography.com/logo.svg)](https://repography.com) / Top contributors
-[![Top contributors](https://images.repography.com/34288148/OMEGA6404/OMEGA6404/top-contributors/vX5MXlvJarv1dSSvRGHezUi06IpX-sXRR5ueOIS-pXc/gduhPqM8KzpLhBngVUYEHsdt_uXKWO0AbN9BLwqD9gE_table.svg)](https://github.com/OMEGA6404/OMEGA6404/graphs/contributors)
-
   <!--
 **OMEGA6404/OMEGA6404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
