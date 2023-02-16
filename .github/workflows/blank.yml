@@ -14,4 +14,4 @@ jobs:
       - uses: siddharth2016/quote-readme@main
         with:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          REPOSITORY: <OMEGA6404>/<OMEGA> # No need to mention this if workflow present in current non profile repo.
+          REPOSITORY: <username>/<differentrepo> # No need to mention this if workflow present in current non profile repo.
